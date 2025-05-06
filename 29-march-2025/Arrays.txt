@@ -1,0 +1,31 @@
+Arrays in java:
+============
+How to declare the array in java?
+data-type[] arrayname = new datatype[size of the array];
+There are 4 ways in java
+int n[size]; //or
+int[] n;
+//simple declaration and initialization.
+//declare first initialize next
+//using the new 
+//declare first initialize by i(using the loop)
+Arrays: 
+	It is a secondary data structure which holds multiple values of same type.
+	size is always fixed.
+
+		where: Type refers to the datatype
+
+Types of arrays:
+	1.Single dimensional
+		1.Initialization
+		2.Declaration of the array
+	2.Multi dimensional
+		jagged array
+--> The Multi Dimensional Arrays:
+		The array of arrays is called as the multi dimensional arrays
+		The most important rule in the Multi dimensional arrays is the first element (or) the rows slot should be filled
+--> The Jagged Arrays:
+		All the sizes of the sub-arrays are not same.
+		Or the sizes of the arrays are unusual
+		Then, they are called as Jagged arrays
+		We mostly don't use it

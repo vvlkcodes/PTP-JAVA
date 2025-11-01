@@ -30,7 +30,6 @@ PTP-JAVA/
  ├── Arrays/              # Array-based practice problems
  ├── Strings/             # String handling & manipulation exercises
  ├── Functions/           # Method-based problem solving
- ├── OOPs/                # Classes, objects, constructors, inheritance, etc.
  ├── Patterns/            # Pattern printing problems
  ├── Miscellaneous/       # Additional logical & experimental programs
  └── README.md
